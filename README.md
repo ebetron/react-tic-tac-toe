@@ -1,3 +1,7 @@
+# React Tic Tac Toe
+
+This project is based on the [Intro Tutorial for React](https://reactjs.org/tutorial/tutorial.html) where a Tic-Tac-Toe game is built to demonstrate key features of the popular JS library.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
